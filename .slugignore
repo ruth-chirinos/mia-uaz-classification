@@ -10,3 +10,4 @@ releases/
 README.md
 .env
 slugignore-template
+.heroku
