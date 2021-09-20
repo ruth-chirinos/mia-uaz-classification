@@ -9,4 +9,4 @@ pandas==1.2.3
 scikit-learn
 Werkzeug
 Keras
-tensorflow=1.14.0
+tensorflow==1.14.0
