@@ -1,0 +1,10 @@
+datasets/
+doc/
+examples/
+maint_tools/
+tutorials/
+releases/
+.gitignore
+README.md
+.env
+slugignore-template
