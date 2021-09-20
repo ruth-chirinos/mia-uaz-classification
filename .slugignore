@@ -1,6 +1,8 @@
 datasets/
 doc/
+__pycache__/
 examples/
+images/
 maint_tools/
 tutorials/
 releases/
