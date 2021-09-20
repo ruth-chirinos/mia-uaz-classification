@@ -9,4 +9,4 @@ pandas==1.2.3
 scikit-learn
 Werkzeug
 Keras
-tensorflow-cp
+tensorflow-cpu
